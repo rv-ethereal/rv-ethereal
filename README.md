@@ -55,3 +55,36 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rv-etherial&show_icons=true&locale=en" alt="rv-etherial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rv-etherial&" alt="rv-etherial" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+class AIResearcher:
+    def __init__(self):
+        self.name = "Raj"
+        self.education = "M.Sc. Artificial Intelligence & Machine Learning"
+        self.institution = "IIIT Lucknow"
+        self.focus_areas = [
+            "Deep Learning",
+            "Natural Language Processing", 
+            "Computer Vision",
+            "Reinforcement Learning",
+            "MLOps & Cloud Computing"
+        ]
+        
+    def get_skills(self):
+        return {
+            'Programming': ['Python', 'C++', 'SQL'],
+            'ML Frameworks': ['TensorFlow', 'PyTorch', 'Scikit-learn'],
+            'Data Science': ['Data Mining', 'Data Analysis', 'Statistics'],
+            'Tools & Platforms': ['Docker', 'AWS', 'Git', 'Jupyter'],
+            'Professional': ['Technical Communication', 'Research Writing']
+        }
