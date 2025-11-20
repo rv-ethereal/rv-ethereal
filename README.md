@@ -27,6 +27,7 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 ---
 
+<div align="center">
 <table>
   <tr>
     <td width="65%" valign="top">
@@ -73,15 +74,15 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 </p>
 
    </td>
-
-   <td width="35%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
       <img src="https://image2url.com/images/1763628755099-56881279-f55f-41e3-9fcf-e845520e5acd.png" 
            width="250" 
            style="border-radius:12px;"/>
     </td>
   </tr>
 </table>
----
+</p>
+</div>
 
 
 
