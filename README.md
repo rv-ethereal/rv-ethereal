@@ -6,27 +6,28 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cool gif" />
 </p>
-
-
+</div>
 ---
 
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=rv-etherial&label=Visitors&color=orange&style=for-the-badge)
+<div align="left">
+
+ <div align="center">
+ <h1>About Me</h1>
+</div>
+
+I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, practical, and real-world machine learning systems.
+
+- 🎓 Pursuing **M.Sc. AI/ML** at **IIIT Lucknow**  
+- 🤖 Working on **Credit Card Analytics**, **Fraud Detection**, **IPCV**, and **Deep Learning projects**  
+- 🧠 Exploring **Generative AI**, RAG systems, and NLP-based solutions  
+- 🛠️ Skilled in **EDA**, Feature Engineering, ML pipelines & evaluation  
+- 🧾 Capstone: **Mental Health Detection from Social Media Text**  
+- 🏋️‍♂️ Fitness & discipline enthusiast  
 </div>
 
 ---
 
-## 🏴‍☠️ Ship's Log — About Captain Rv
-I’m **Raj Verma (Rv)** — charting the seas of AI & ML from IIIT Lucknow. I steer projects that turn messy treasure-maps of data into shining doubloons of insight.
-
-- 🎓 **M.Sc. (AI/ML)** — IIIT Lucknow  
-- ⚓ Focus: **Credit Card Analytics, Fraud Detection, IPCV (Doodle→Image), NLP (Mental Health Detection)**  
-- 🧭 Building: practical ML pipelines, RAG systems, generative models  
-- 🏋️‍♂️ Side-quest: powerlifting & fitness discipline
-
----
-
-## 🗺️ The Crew — Tech & Tools
+## 🗺️ Tech & Tools
 > *“A pirate is a soul who loves the sea — and tech. Here’s my crew.”*
 
 **Languages:** `Python` · `C` · `C++`  
