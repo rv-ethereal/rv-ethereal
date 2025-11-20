@@ -7,7 +7,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cool gif" />
 </p>
 </div>
----
+
+<hr/>
 
 <div align="left">
 
@@ -111,16 +112,16 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 ---
 
-## 🧭 Voyages & Quests (Core Strengths)
-- 🔎 **Treasure-hunting (EDA)** — find the signal in noisy transactions  
-- ⚙️ **ML Shipwright** — build robust pipelines and evaluation suites  
-- 🧠 **Deep Learning Deck** — CNNs, GAN ideas for Doodle→Image projects  
+## 🧭 Core Strengths
+- 🔎 **EDA** — find the signal in noisy transactions  
+- ⚙️ **Machine Learning** — build robust pipelines and evaluation suites  
+- 🧠 **Deep Learning** — CNNs, GAN ideas for Doodle→Image projects  
 - 🔗 **RAG & NLP** — PDF summarizer, mental-health detectors  
 - 📊 **Data Storytelling** — translate analytics into business moves
 
 ---
 
-## 🔭 Current Voyage Plans
+## 🔭 Current Plans
 - ⚓ Strengthen **Credit Card Analytics** into a reusable library  
 - 🧠 Finish **Mental Health Detection** capstone (NLP + transformer pipelines)  
 - 🎨 Improve **Doodle → Image** model realism  
@@ -128,10 +129,9 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 ---
 
-## 🏝️ Pirate Badges (Profile Widgets)
+## 🏝️ Profile Widgets
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rv-etherial&show_icons=true&theme=merko" alt="github-stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=rv-etherial&theme=merko" alt="streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-etherial&layout=compact&theme=merko" alt="top-langs" height="150"/>
 </div>
 
