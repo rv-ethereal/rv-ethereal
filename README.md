@@ -3,8 +3,10 @@
 <div align="center">
   <h1> Hi, This is Raj "aka Rv"  </h1>
   <p>🧠 Generative AI Engineer | 🌐 AI/ML & Frontend Developer | 🚀 MLOps Enthusiast | 🎥 Content Creator</p>
-  <img src="https://media.giphy.com/media/3o7aD4c6mJ3lqzP3sQ/giphy.gif" alt="coding gif" width="360"/>
-</div>
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cool gif" />
+</p>
+
 
 ---
 
