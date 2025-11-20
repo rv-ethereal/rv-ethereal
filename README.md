@@ -47,7 +47,7 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 <p align="center">
   <!-- Replace this GIF with any image you want -->
-  <img src=""C:\Users\srj15\Downloads\lufy.png"" 
+  <img src="C:\Users\srj15\Downloads\lufy.png" 
        width="260" 
        style="border-radius:10px;"/>
 </p>
